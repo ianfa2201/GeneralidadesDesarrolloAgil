@@ -7,3 +7,15 @@
   -o-background-size: cover;
   background-size: cover;
 }
+
+.black{
+  color:black;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon{
+  color: black;
+}
+
+button{
+  color: black;
+}
